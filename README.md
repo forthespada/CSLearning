@@ -67,11 +67,11 @@
 
 ## 数据结构与算法
 
-#### 1、汇集了力扣牛客各种高赞解法的67道剑指offer刷题笔记
-
-##### [我大意了，刷题笔记刚一放出来就上了牛客网头条了](https://mp.weixin.qq.com/s/QfDrrJUk_j4IA3wEz-CBDQ)
+#### 1、[我大意了，刷题笔记刚一放出来就上了牛客网头条了](https://mp.weixin.qq.com/s/QfDrrJUk_j4IA3wEz-CBDQ)
 
 链接：https://pan.baidu.com/s/1xnTShYHGETkd-Bapx-S9ig   提取码：um9k 
+
+
 
 
 

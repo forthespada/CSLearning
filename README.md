@@ -31,13 +31,13 @@
 
 ##### 2、[如何打造个人的完美简历](https://blog.nowcoder.net/zhuanlan/gmPq1j)(同样上专栏首页了，耶✌)
 
-<img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.1.4.0/某乎问题图床/专栏上头条.jpg" alt="自己写的两个专栏上头条了" style="zoom: 50%;" />
+<img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.1.4.0/某乎问题图床/专栏上头条.jpg" alt="阿秀写的两个专栏上牛客网头条了" style="zoom: 50%;" />
 
 ##### 3、[校招求职专刊](https://www.nowcoder.com/tutorial/10043/index)（阿秀前后修改16个人的意见，精心打磨4轮，最终成功上线牛客网求职板块）
 
 >注：如果有意购买，可联系本人送你一个优惠券，作为作者这个优惠还是拿的到的。联系方式去工会号  「[拓跋阿秀](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.4.3/简约蓝色公众号.png)」下回复 「**阿秀**」即可 获取
 
-<img src="img/个人求职专刊上线.png" alt="个人求职专刊上线" style="zoom: 40%;" />
+<img src="img/个人求职专刊上线.png" alt="阿秀求职专刊成功上线" style="zoom: 40%;" />
 
 -----
 
@@ -98,7 +98,7 @@
 
 
 <div align=center>
-    <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.4/一共两种联系方式.png" alt="关注我不迷路" style="zoom:40%;" />
+    <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.4/一共两种联系方式.png" alt="关注阿秀不迷路" style="zoom:40%;" />
     <p style="text-align:center;color:#1e819e;font-size:1.4em;font-weight: bold;">
 “你只管努力，剩下的交给时间就好，我就是活生生的例子~”
 </div>

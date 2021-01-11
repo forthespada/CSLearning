@@ -8,8 +8,6 @@
 
 衷心希望我以前踩过的坑，你们不要再踩，我走过的路，你们可以照着走下来。**因为从双非二本爬上来，太TMD难了!**
 
-
-
 <h2 align="center"><a id="user-content---------本仓库持续更新中----" class="anchor" aria-hidden="true" href="#--------本仓库持续更新中----"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a href="https://mp.weixin.qq.com/s/giYhJD8V8gioZWiy_tguXQ" rel="nofollow">
         <p style="text-align:center;color:#3366ff;font-size:1.0em;font-weight: normal;" >本仓库持续更新中..</p>
     </a></h2>
@@ -79,6 +77,8 @@
 
 ##### 2、[非科班转行自学进微软-我的编程学习之路](https://mp.weixin.qq.com/s/AnLjMaWffyKlJa4wmOeAIw)
 
+##### 3、[最强刷题笔记！谷歌大佬的100%打败600余道力扣的算法笔记小抄，还能更强吗？](https://zhuanlan.zhihu.com/p/342828731)
+
 
 
 -----
@@ -93,7 +93,13 @@
 
 
 
-------
+## 其余资源
+
+1、[GitHub排名第9的开发人员学习路线，成功斩获141K+star，学完国内BAT、TMD大厂随便进](https://zhuanlan.zhihu.com/p/339729410)
+
+
+
+
 
 
 

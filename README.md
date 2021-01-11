@@ -1,7 +1,5 @@
 <h1 align="center">CSLearning的使用指南</h1>
 
-
-
 >作者简介： 双非二本渣渣，8个月学习C++，投94家公司，笔试54场，面试30余家，2021届秋招拿6个中大厂offer（**字节跳动研发岗SP、华为通用软件开发、百度C++研发岗、B站后端研发岗、深信服C++研发岗以及农业银行研发岗**），最后成功上岸**字节跳动抖音部门**， 贡献个人头发去了。
 
 
@@ -44,7 +42,7 @@
 
 -----
 
-## C++
+## **C++**
 
 ##### 1、[双非渣硕的秋招之路总结（已拿抖音研发岗SP）](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247484185&idx=1&sn=39728960ae985a4ecda34da4fb076865&chksm=ce25ff64f95276727955bf6eb0838763c4864fa923d59440a4a3025f8b81df4fab219cba0a8f&scene=178&cur_album_id=1646656656405004295#rd)
 
@@ -64,13 +62,17 @@
 
 
 
+
+
 ------
 
-## Java
+## **Java**
 
 ##### 1、[三本出身最终斩获字节跳动后端研发Offer的Java人生之旅](https://mp.weixin.qq.com/s/3xXGQZpnVXZ48R7Z9mvQkQ)
 
 链接：https://pan.baidu.com/s/1NueJoHKNdEprMr5UpARAAg   提取码：8gqk 
+
+
 
 
 
@@ -86,6 +88,8 @@
 
 
 
+
+
 -----
 
 ## 如何写简历
@@ -95,6 +99,8 @@
 阿秀自身简历模板以及粉丝简历修改版本都在里面了，希望你能写好**属于你自己的简历**~
 
 链接：https://pan.baidu.com/s/1E6uTZR1T8gdGhAgWv0gERQ  提取码：ubnw
+
+
 
 
 

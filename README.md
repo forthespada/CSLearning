@@ -1,6 +1,7 @@
 <h1 align="center">CSLearning的使用指南</h1>
 >作者简介： 双非二本渣渣，8个月学习C++，投94家公司，笔试54场，面试30余家，2021届秋招拿6个中大厂offer（**字节跳动研发岗SP、华为通用软件开发、百度C++研发岗、B站后端研发岗、深信服C++研发岗以及农业银行研发岗**），最后成功上岸**字节跳动抖音部门**， 贡献个人头发去了。
 
+-----
 
 在此承诺本仓库**永不收费**，永远免费分享给有需要的人，希望自己的**幸苦结晶**能够帮助到曾经那些像我一样的小白、新手、在校生们，为那些曾经像我一样迷茫的人指明一条路。
 
@@ -18,7 +19,7 @@
   <a href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=100000332&idx=1&sn=9dd24307b7e963174ee8429827542318&chksm=4e25fe3179527727ac563214c69fe6ac354ab4383c652d9b3e9e03d70dc48df4ad929e076ce3&scene=18#wechat_redirect">
 公众号：拓跋阿秀</a>      
   <a href="https://blog.csdn.net/songhao19" rel="nofollow">CSDN：拓跋阿秀</a>        
-  <a href="https://www.zhihu.com/people/yi-wen-zi-hao-shu" rel="nofollow">知乎：阿秀</a>     
+  <a href="https://www.zhihu.com/people/yi-wen-zi-hao-shu/answers" rel="nofollow">知乎：阿秀</a>     
      <a href="https://space.bilibili.com/17066171" rel="nofollow">B站：拓跋阿秀</a> 
 </p>
 

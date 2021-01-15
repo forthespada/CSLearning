@@ -1,5 +1,4 @@
 <h1 align="center">CSLearning的使用指南</h1>
-
 > 作者简介： 双非二本渣渣，8个月学习C++，投94家公司，笔试54场，面试30余家，2021届秋招拿6个中大厂offer（**字节跳动研发岗SP、华为通用软件开发、百度C++研发岗、B站后端研发岗、深信服C++研发岗以及农业银行研发岗**），最后成功上岸**字节跳动抖音部门**， 贡献个人头发去了。
 
 
@@ -29,13 +28,13 @@
 
 #### [牛客网](https://www.nowcoder.com/)个人专栏与专刊（昵称：[拱白菜的阿秀](https://www.nowcoder.com/profile/872855282)）
 
-##### 1、[汇集牛客高赞解法的67道剑指offer](https://blog.nowcoder.net/zhuanlan/qmGzR0)(刚一发布就上牛客网专栏首页了)
+1、[汇集牛客高赞解法的67道剑指offer](https://blog.nowcoder.net/zhuanlan/qmGzR0)(刚一发布就上牛客网专栏首页了)
 
-##### 2、[如何打造个人的完美简历](https://blog.nowcoder.net/zhuanlan/gmPq1j)(同样上专栏首页了，耶✌)
+2、[如何打造个人的完美简历](https://blog.nowcoder.net/zhuanlan/gmPq1j)(同样上专栏首页了，耶✌)
 
 <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.1.4.0/某乎问题图床/专栏上头条.jpg" alt="阿秀写的两个专栏上牛客网头条了" style="zoom: 50%;" />
 
-##### 3、[校招求职专刊](https://www.nowcoder.com/tutorial/10043/index)（阿秀前后修改16个人的意见，精心打磨4轮，最终成功上线牛客网求职板块）
+3、[校招求职专刊](https://www.nowcoder.com/tutorial/10043/index)（阿秀前后修改16个人的意见，精心打磨4轮，最终成功上线牛客网求职板块）
 
 >注：如果有意购买，可联系本人送你一个优惠券，作为作者这个优惠还是拿的到的。联系方式去个人公众号  「[拓跋阿秀](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.4.3/简约蓝色公众号.png)」下回复 「**阿秀**」即可获取。
 
@@ -45,19 +44,19 @@
 
 ## **C++**
 
-##### 1、[双非渣硕的秋招之路总结（已拿抖音研发岗SP）](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247484185&idx=1&sn=39728960ae985a4ecda34da4fb076865&chksm=ce25ff64f95276727955bf6eb0838763c4864fa923d59440a4a3025f8b81df4fab219cba0a8f&scene=178&cur_album_id=1646656656405004295#rd)
+1、[双非渣硕的秋招之路总结（已拿抖音研发岗SP）](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247484185&idx=1&sn=39728960ae985a4ecda34da4fb076865&chksm=ce25ff64f95276727955bf6eb0838763c4864fa923d59440a4a3025f8b81df4fab219cba0a8f&scene=178&cur_album_id=1646656656405004295#rd)
 
 链接：https://pan.baidu.com/s/1CbZSqe120hAjWYX-CVKxrg  提取码：1255 
 
-##### 2、[能拿BAT、TMD等国内互联网大厂的C++学习过程分享~](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247483953&idx=1&sn=a0a6b338185bfee8e3538bdfbf58e55c&chksm=ce25fe4cf952775a519c82f0f6e208f5762c97ed11511670ebec6c21cacd575af74e49397969&scene=178&cur_album_id=1645997439675367425#rd)
+2、[能拿BAT、TMD等国内互联网大厂的C++学习过程分享~](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247483953&idx=1&sn=a0a6b338185bfee8e3538bdfbf58e55c&chksm=ce25fe4cf952775a519c82f0f6e208f5762c97ed11511670ebec6c21cacd575af74e49397969&scene=178&cur_album_id=1645997439675367425#rd)
 
 链接：https://pan.baidu.com/s/144q40MPppSjPCa2gr-VBpA    提取码：lbct 
 
-##### 3、[干货满满！实战 | 服务端开发与计算机网络结合的完美案例](https://mp.weixin.qq.com/s/pG5hju6lszPeuSEoV1E8BA)
+3、[干货满满！实战 | 服务端开发与计算机网络结合的完美案例](https://mp.weixin.qq.com/s/pG5hju6lszPeuSEoV1E8BA)
 
 链接：https://pan.baidu.com/s/1qVVJHWyL_Ccfow7jJbDHkQ  提取码：62ek 
 
-##### 4、[阿秀做过的几个项目，拿去跟面试官对线](https://mp.weixin.qq.com/s/LopXj5XkUbOSgESV-sOf4w)
+4、[阿秀做过的几个项目，拿去跟面试官对线](https://mp.weixin.qq.com/s/LopXj5XkUbOSgESV-sOf4w)
 
 
 
@@ -69,7 +68,7 @@
 
 ## **Java**
 
-##### 1、[三本出身最终斩获字节跳动后端研发Offer的Java人生之旅](https://mp.weixin.qq.com/s/3xXGQZpnVXZ48R7Z9mvQkQ)
+1、[三本出身最终斩获字节跳动后端研发Offer的Java人生之旅](https://mp.weixin.qq.com/s/3xXGQZpnVXZ48R7Z9mvQkQ)
 
 链接：https://pan.baidu.com/s/1NueJoHKNdEprMr5UpARAAg   提取码：8gqk 
 
@@ -79,13 +78,13 @@
 
 ## 数据结构与算法
 
-##### 1、[我大意了，刷题笔记刚一放出来就上了牛客网头条了](https://mp.weixin.qq.com/s/QfDrrJUk_j4IA3wEz-CBDQ)
+1、[我大意了，刷题笔记刚一放出来就上了牛客网头条了](https://mp.weixin.qq.com/s/QfDrrJUk_j4IA3wEz-CBDQ)
 
 链接：https://pan.baidu.com/s/1xnTShYHGETkd-Bapx-S9ig   提取码：um9k 
 
-##### 2、[非科班转行自学进微软-我的编程学习之路](https://mp.weixin.qq.com/s/AnLjMaWffyKlJa4wmOeAIw)
+2、[非科班转行自学进微软-我的编程学习之路](https://mp.weixin.qq.com/s/AnLjMaWffyKlJa4wmOeAIw)
 
-##### 3、[最强刷题笔记！谷歌大佬的100%打败600余道力扣的算法笔记小抄，还能更强吗？](https://zhuanlan.zhihu.com/p/342828731)
+3、[最强刷题笔记！谷歌大佬的100%打败600余道力扣的算法笔记小抄，还能更强吗？](https://zhuanlan.zhihu.com/p/342828731)
 
 
 
@@ -97,7 +96,7 @@
 
 ## 如何写简历
 
-##### 1、[一份百投百中的计算机校招简历是如何迭代足足26版的？](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247484253&idx=1&sn=df7ade24514881e60a40cde578d2b3da&chksm=ce25ff20f95276364a71e649141ca4c53c97f1fc1cc913a20c67586cdf620317f978e928e2b7&scene=126&sessionid=1608343657&key=83b7fdc2e28db9650cdc10bacd0a0f097ad16beb02d6dbc1e0e4005a484887cafb0e46484f047c1977e805b3430b2ad1975ace69a7c15bf87e649d62ca22923d629791ccb42607a6796faaed8c3361146e45b35b3b1fe45833cecff96a6ccabd23a5e2787b976cc47ba6ba838af73496f0887ccdab42410c9100edc577fd1443&ascene=1&uin=MTU0MTg3NjkyOA%3D%3D&devicetype=Windows+10+x64&version=62090538&lang=zh_CN&exportkey=AR%2FnqNBKRjClxG%2FcoguEL7Y%3D&pass_ticket=%2FfKkpK2i7c7MrCBoE0fGp%2FiMhDilgMJjoVfqMtz%2Bc7zLa%2BEIbDVllJxkTqtHUO03&wx_header=0)
+1、[一份百投百中的计算机校招简历是如何迭代足足26版的？](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247484253&idx=1&sn=df7ade24514881e60a40cde578d2b3da&chksm=ce25ff20f95276364a71e649141ca4c53c97f1fc1cc913a20c67586cdf620317f978e928e2b7&scene=126&sessionid=1608343657&key=83b7fdc2e28db9650cdc10bacd0a0f097ad16beb02d6dbc1e0e4005a484887cafb0e46484f047c1977e805b3430b2ad1975ace69a7c15bf87e649d62ca22923d629791ccb42607a6796faaed8c3361146e45b35b3b1fe45833cecff96a6ccabd23a5e2787b976cc47ba6ba838af73496f0887ccdab42410c9100edc577fd1443&ascene=1&uin=MTU0MTg3NjkyOA%3D%3D&devicetype=Windows+10+x64&version=62090538&lang=zh_CN&exportkey=AR%2FnqNBKRjClxG%2FcoguEL7Y%3D&pass_ticket=%2FfKkpK2i7c7MrCBoE0fGp%2FiMhDilgMJjoVfqMtz%2Bc7zLa%2BEIbDVllJxkTqtHUO03&wx_header=0)
 
 阿秀自身简历模板以及粉丝简历修改版本都在里面了，希望你能写好**属于你自己的简历**~
 
@@ -105,9 +104,15 @@
 
 
 
-### 笔试面试
+## 笔试面试
 
-##### 1、[可能是最全如何顺利通过互联网大厂面试的介绍了，还有没介绍到的来打我](https://zhuanlan.zhihu.com/p/344115290)
+1、[可能是最全如何顺利通过互联网大厂面试的介绍了，还有没介绍到的来打我](https://zhuanlan.zhihu.com/p/344115290)
+
+
+
+## 个人成长
+
+1、[如果你想本科进BAT等大厂，那这些问题你千万要注意！千万不要去犯！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247485042&idx=1&sn=30ceb1c25d4e9bb8f9effa3e39cc2936&chksm=ce25fa0ff9527319808b59ae21cc2e5673d6c529d575da34122f1129f2037e1ad89b95d544c4&token=721831380&lang=zh_CN#rd)
 
 
 

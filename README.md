@@ -1,8 +1,6 @@
 <h1 align="center">CSLearning的使用指南</h1>
 
 
-
-
 > 作者简介： 双非二本渣渣，8个月学习C++，投94家公司，笔试54场，面试30余家，2021届秋招拿6个中大厂offer（**字节跳动研发岗SP、华为通用软件开发、百度C++研发岗、B站后端研发岗、深信服C++研发岗以及农业银行研发岗**），最后成功上岸**字节跳动抖音部门**， 贡献个人头发去了。
 
 
@@ -98,7 +96,7 @@
 
 -----
 
-## 如何写简历
+## 计算机校招相关
 
 1、[一份百投百中的计算机校招简历是如何迭代足足26版的？](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247484253&idx=1&sn=df7ade24514881e60a40cde578d2b3da&chksm=ce25ff20f95276364a71e649141ca4c53c97f1fc1cc913a20c67586cdf620317f978e928e2b7&scene=126&sessionid=1608343657&key=83b7fdc2e28db9650cdc10bacd0a0f097ad16beb02d6dbc1e0e4005a484887cafb0e46484f047c1977e805b3430b2ad1975ace69a7c15bf87e649d62ca22923d629791ccb42607a6796faaed8c3361146e45b35b3b1fe45833cecff96a6ccabd23a5e2787b976cc47ba6ba838af73496f0887ccdab42410c9100edc577fd1443&ascene=1&uin=MTU0MTg3NjkyOA%3D%3D&devicetype=Windows+10+x64&version=62090538&lang=zh_CN&exportkey=AR%2FnqNBKRjClxG%2FcoguEL7Y%3D&pass_ticket=%2FfKkpK2i7c7MrCBoE0fGp%2FiMhDilgMJjoVfqMtz%2Bc7zLa%2BEIbDVllJxkTqtHUO03&wx_header=0)
 
@@ -114,11 +112,11 @@
 
 
 
-## 个人成长
+## 程序人生
 
 1、[如果你想本科进BAT等大厂，那这些问题你千万要注意！千万不要去犯！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247485042&idx=1&sn=30ceb1c25d4e9bb8f9effa3e39cc2936&chksm=ce25fa0ff9527319808b59ae21cc2e5673d6c529d575da34122f1129f2037e1ad89b95d544c4&token=721831380&lang=zh_CN#rd)
 
-
+2、[在校2年，仅靠纯技术我赚到了12W](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247485325&idx=1&sn=0e05fbc72f530846204eecb3f7b2b6e6&chksm=ce25fbf0f95272e677d9bfe8ad986fddad2ecdf6f49aa9d17f2fefaf3b2b0395ec8b3b6eb1ab&scene=126&sessionid=1611849083&key=9901f88700be51c2509e4e0e8f951341c2aa7b3139134f0427597fcea3fa30adaa13509b594ce5fac3c18101926c2b6b3aa5bd16eebf38174f12ab2457469fd1d8a83c33b6c9112db5555f36d9ac68bd1d64567e7682e22698a90e11905d7154f1b55995e3aae922b4604d1ec713974783aa9a3f6f374c009d313c250d9f6d4a&ascene=1&uin=Nzk4NDQ3NjUy&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=A0JlLHv9gJ6snp4HSRSetTk%3D&pass_ticket=jGsET598AtX4yfZ8%2BGcw%2BddDEjuAQwOWgrJAgbLW0eC7Ju1538HZMCcHaK%2B4ebEK&wx_header=0)
 
 ## 其余资源
 
@@ -132,7 +130,7 @@
 
 <div align=center>
     <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.4/一共两种联系方式.png" alt="关注阿秀不迷路" style="zoom:40%;" />
-    <p style="text-align:center;color:#1e819e;font-size:1.4em;font-weight: bold;">
+    <p style="text-align:center;color:#1e819e;font-size:1.2em;font-weight: bold;">
 “你只管努力，剩下的交给时间就好，我就是活生生的例子~”
 </div>
 

@@ -2,7 +2,6 @@
 
 
 
-
 > 作者简介： 双非二本渣渣，8个月学习C++，投94家公司，笔试54场，面试30余家，2021届秋招拿6个中大厂offer（**字节跳动研发岗SP、华为通用软件开发、百度C++研发岗、B站后端研发岗、深信服C++研发岗以及农业银行研发岗**），最后成功上岸**字节跳动抖音部门**， 贡献个人头发去了。
 
 
@@ -118,7 +117,7 @@
 
 1、[如果你想本科进BAT等大厂，那这些问题你千万要注意！千万不要去犯！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247485042&idx=1&sn=30ceb1c25d4e9bb8f9effa3e39cc2936&chksm=ce25fa0ff9527319808b59ae21cc2e5673d6c529d575da34122f1129f2037e1ad89b95d544c4&token=721831380&lang=zh_CN#rd)
 
-2、[在校2年，仅靠纯技术我赚到了12W](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247485325&idx=1&sn=0e05fbc72f530846204eecb3f7b2b6e6&chksm=ce25fbf0f95272e677d9bfe8ad986fddad2ecdf6f49aa9d17f2fefaf3b2b0395ec8b3b6eb1ab&scene=126&sessionid=1611849083&key=9901f88700be51c2509e4e0e8f951341c2aa7b3139134f0427597fcea3fa30adaa13509b594ce5fac3c18101926c2b6b3aa5bd16eebf38174f12ab2457469fd1d8a83c33b6c9112db5555f36d9ac68bd1d64567e7682e22698a90e11905d7154f1b55995e3aae922b4604d1ec713974783aa9a3f6f374c009d313c250d9f6d4a&ascene=1&uin=Nzk4NDQ3NjUy&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=A0JlLHv9gJ6snp4HSRSetTk%3D&pass_ticket=jGsET598AtX4yfZ8%2BGcw%2BddDEjuAQwOWgrJAgbLW0eC7Ju1538HZMCcHaK%2B4ebEK&wx_header=0)
+2、[在校2年，仅靠计算机纯技术我赚到了12W](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247485325&idx=1&sn=0e05fbc72f530846204eecb3f7b2b6e6&chksm=ce25fbf0f95272e677d9bfe8ad986fddad2ecdf6f49aa9d17f2fefaf3b2b0395ec8b3b6eb1ab&scene=126&sessionid=1611849083&key=9901f88700be51c2509e4e0e8f951341c2aa7b3139134f0427597fcea3fa30adaa13509b594ce5fac3c18101926c2b6b3aa5bd16eebf38174f12ab2457469fd1d8a83c33b6c9112db5555f36d9ac68bd1d64567e7682e22698a90e11905d7154f1b55995e3aae922b4604d1ec713974783aa9a3f6f374c009d313c250d9f6d4a&ascene=1&uin=Nzk4NDQ3NjUy&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=A0JlLHv9gJ6snp4HSRSetTk%3D&pass_ticket=jGsET598AtX4yfZ8%2BGcw%2BddDEjuAQwOWgrJAgbLW0eC7Ju1538HZMCcHaK%2B4ebEK&wx_header=0)
 
 ## 其余资源
 

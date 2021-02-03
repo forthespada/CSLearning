@@ -47,19 +47,19 @@
 
 ## **C++**
 
-1、[双非渣硕的秋招之路总结（已拿抖音研发岗SP）](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247484185&idx=1&sn=39728960ae985a4ecda34da4fb076865&chksm=ce25ff64f95276727955bf6eb0838763c4864fa923d59440a4a3025f8b81df4fab219cba0a8f&scene=178&cur_album_id=1646656656405004295#rd)
+- [双非渣硕的秋招之路总结（已拿抖音研发岗SP）](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247484185&idx=1&sn=39728960ae985a4ecda34da4fb076865&chksm=ce25ff64f95276727955bf6eb0838763c4864fa923d59440a4a3025f8b81df4fab219cba0a8f&scene=178&cur_album_id=1646656656405004295#rd)
 
-链接：https://pan.baidu.com/s/1CbZSqe120hAjWYX-CVKxrg  提取码：1255 
+  链接：https://pan.baidu.com/s/1CbZSqe120hAjWYX-CVKxrg  提取码：1255 
 
-2、[能拿BAT、TMD等国内互联网大厂的C++学习过程分享~](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247483953&idx=1&sn=a0a6b338185bfee8e3538bdfbf58e55c&chksm=ce25fe4cf952775a519c82f0f6e208f5762c97ed11511670ebec6c21cacd575af74e49397969&scene=178&cur_album_id=1645997439675367425#rd)
+- [能拿BAT、TMD等国内互联网大厂的C++学习过程分享~](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247483953&idx=1&sn=a0a6b338185bfee8e3538bdfbf58e55c&chksm=ce25fe4cf952775a519c82f0f6e208f5762c97ed11511670ebec6c21cacd575af74e49397969&scene=178&cur_album_id=1645997439675367425#rd)
 
-链接：https://pan.baidu.com/s/144q40MPppSjPCa2gr-VBpA    提取码：lbct 
+  链接：https://pan.baidu.com/s/144q40MPppSjPCa2gr-VBpA    提取码：lbct 
 
-3、[干货满满！实战 | 服务端开发与计算机网络结合的完美案例](https://mp.weixin.qq.com/s/pG5hju6lszPeuSEoV1E8BA)
+- [干货满满！实战 | 服务端开发与计算机网络结合的完美案例](https://mp.weixin.qq.com/s/pG5hju6lszPeuSEoV1E8BA)
 
-链接：https://pan.baidu.com/s/1qVVJHWyL_Ccfow7jJbDHkQ  提取码：62ek 
+  链接：https://pan.baidu.com/s/1qVVJHWyL_Ccfow7jJbDHkQ  提取码：62ek 
 
-4、[阿秀做过的几个项目，拿去跟面试官对线](https://mp.weixin.qq.com/s/LopXj5XkUbOSgESV-sOf4w)
+- [阿秀做过的几个项目，拿去跟面试官对线](https://mp.weixin.qq.com/s/LopXj5XkUbOSgESV-sOf4w)
 
 
 
@@ -71,9 +71,10 @@
 
 ## **Java**
 
-1、[三本出身最终斩获字节跳动后端研发Offer的Java人生之旅](https://mp.weixin.qq.com/s/3xXGQZpnVXZ48R7Z9mvQkQ)
+- [三本出身最终斩获字节跳动后端研发Offer的Java人生之旅](https://mp.weixin.qq.com/s/3xXGQZpnVXZ48R7Z9mvQkQ)
 
-链接：https://pan.baidu.com/s/1NueJoHKNdEprMr5UpARAAg   提取码：8gqk 
+  链接：https://pan.baidu.com/s/1NueJoHKNdEprMr5UpARAAg   提取码：8gqk 
+
 
 
 
@@ -81,13 +82,13 @@
 
 ## 数据结构与算法
 
-1、[我大意了，刷题笔记刚一放出来就上了牛客网头条了](https://mp.weixin.qq.com/s/QfDrrJUk_j4IA3wEz-CBDQ)
+- [我大意了，刷题笔记刚一放出来就上了牛客网头条了](https://mp.weixin.qq.com/s/QfDrrJUk_j4IA3wEz-CBDQ)
 
-链接：https://pan.baidu.com/s/1xnTShYHGETkd-Bapx-S9ig   提取码：um9k 
+  链接：https://pan.baidu.com/s/1xnTShYHGETkd-Bapx-S9ig   提取码：um9k 
 
-2、[非科班转行自学进微软-我的编程学习之路](https://mp.weixin.qq.com/s/AnLjMaWffyKlJa4wmOeAIw)
+- [非科班转行自学进微软-我的编程学习之路](https://mp.weixin.qq.com/s/AnLjMaWffyKlJa4wmOeAIw)
 
-3、[最强刷题笔记！谷歌大佬的100%打败600余道力扣的算法笔记小抄，还能更强吗？](https://zhuanlan.zhihu.com/p/342828731)
+- [最强刷题笔记！谷歌大佬的100%打败600余道力扣的算法笔记小抄，还能更强吗？](https://zhuanlan.zhihu.com/p/342828731)
 
 
 
@@ -97,31 +98,26 @@
 
 -----
 
-## 计算机校招相关
+## 计算机校招相关、笔试面试
 
-1、[一份百投百中的计算机校招简历是如何迭代足足26版的？](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247484253&idx=1&sn=df7ade24514881e60a40cde578d2b3da&chksm=ce25ff20f95276364a71e649141ca4c53c97f1fc1cc913a20c67586cdf620317f978e928e2b7&scene=126&sessionid=1608343657&key=83b7fdc2e28db9650cdc10bacd0a0f097ad16beb02d6dbc1e0e4005a484887cafb0e46484f047c1977e805b3430b2ad1975ace69a7c15bf87e649d62ca22923d629791ccb42607a6796faaed8c3361146e45b35b3b1fe45833cecff96a6ccabd23a5e2787b976cc47ba6ba838af73496f0887ccdab42410c9100edc577fd1443&ascene=1&uin=MTU0MTg3NjkyOA%3D%3D&devicetype=Windows+10+x64&version=62090538&lang=zh_CN&exportkey=AR%2FnqNBKRjClxG%2FcoguEL7Y%3D&pass_ticket=%2FfKkpK2i7c7MrCBoE0fGp%2FiMhDilgMJjoVfqMtz%2Bc7zLa%2BEIbDVllJxkTqtHUO03&wx_header=0)
+- [一份百投百中的计算机校招简历是如何迭代足足26版的？](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247484253&idx=1&sn=df7ade24514881e60a40cde578d2b3da&chksm=ce25ff20f95276364a71e649141ca4c53c97f1fc1cc913a20c67586cdf620317f978e928e2b7&scene=126&sessionid=1608343657&key=83b7fdc2e28db9650cdc10bacd0a0f097ad16beb02d6dbc1e0e4005a484887cafb0e46484f047c1977e805b3430b2ad1975ace69a7c15bf87e649d62ca22923d629791ccb42607a6796faaed8c3361146e45b35b3b1fe45833cecff96a6ccabd23a5e2787b976cc47ba6ba838af73496f0887ccdab42410c9100edc577fd1443&ascene=1&uin=MTU0MTg3NjkyOA%3D%3D&devicetype=Windows+10+x64&version=62090538&lang=zh_CN&exportkey=AR%2FnqNBKRjClxG%2FcoguEL7Y%3D&pass_ticket=%2FfKkpK2i7c7MrCBoE0fGp%2FiMhDilgMJjoVfqMtz%2Bc7zLa%2BEIbDVllJxkTqtHUO03&wx_header=0)
 
-阿秀自身简历模板以及粉丝简历修改版本都在里面了，希望你能写好**属于你自己的简历**~
+  阿秀自身简历模板以及粉丝简历修改版本都在里面了，希望你能写好**属于你自己的简历**~
 
-链接：https://pan.baidu.com/s/1E6uTZR1T8gdGhAgWv0gERQ  提取码：ubnw
+  链接：https://pan.baidu.com/s/1E6uTZR1T8gdGhAgWv0gERQ  提取码：ubnw
 
+- [可能是最全如何顺利通过互联网大厂面试的介绍了，还有没介绍到的来打我](https://zhuanlan.zhihu.com/p/344115290)
 
-
-## 笔试面试
-
-1、[可能是最全如何顺利通过互联网大厂面试的介绍了，还有没介绍到的来打我](https://zhuanlan.zhihu.com/p/344115290)
-
-
+- [《逆袭进大厂》之C++篇49问49答(绝对的干货)](https://mp.weixin.qq.com/s/laVfgYSfT3XLDamFOMauXw)（3W字总结常见面试题，有问有答，能一次性看完算我输）
 
 ## 程序人生
 
-1、[如果你想本科进BAT等大厂，那这些问题你千万要注意！千万不要去犯！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247485042&idx=1&sn=30ceb1c25d4e9bb8f9effa3e39cc2936&chksm=ce25fa0ff9527319808b59ae21cc2e5673d6c529d575da34122f1129f2037e1ad89b95d544c4&token=721831380&lang=zh_CN#rd)
-
-2、[在校2年，仅靠计算机纯技术我赚到了12W](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247485325&idx=1&sn=0e05fbc72f530846204eecb3f7b2b6e6&chksm=ce25fbf0f95272e677d9bfe8ad986fddad2ecdf6f49aa9d17f2fefaf3b2b0395ec8b3b6eb1ab&scene=126&sessionid=1611849083&key=9901f88700be51c2509e4e0e8f951341c2aa7b3139134f0427597fcea3fa30adaa13509b594ce5fac3c18101926c2b6b3aa5bd16eebf38174f12ab2457469fd1d8a83c33b6c9112db5555f36d9ac68bd1d64567e7682e22698a90e11905d7154f1b55995e3aae922b4604d1ec713974783aa9a3f6f374c009d313c250d9f6d4a&ascene=1&uin=Nzk4NDQ3NjUy&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=A0JlLHv9gJ6snp4HSRSetTk%3D&pass_ticket=jGsET598AtX4yfZ8%2BGcw%2BddDEjuAQwOWgrJAgbLW0eC7Ju1538HZMCcHaK%2B4ebEK&wx_header=0)
+- [如果你想本科进BAT等大厂，那这些问题你千万要注意！千万不要去犯！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247485042&idx=1&sn=30ceb1c25d4e9bb8f9effa3e39cc2936&chksm=ce25fa0ff9527319808b59ae21cc2e5673d6c529d575da34122f1129f2037e1ad89b95d544c4&token=721831380&lang=zh_CN#rd)
+- [在校2年，仅靠计算机纯技术我赚到了12W](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247485325&idx=1&sn=0e05fbc72f530846204eecb3f7b2b6e6&chksm=ce25fbf0f95272e677d9bfe8ad986fddad2ecdf6f49aa9d17f2fefaf3b2b0395ec8b3b6eb1ab&scene=126&sessionid=1611849083&key=9901f88700be51c2509e4e0e8f951341c2aa7b3139134f0427597fcea3fa30adaa13509b594ce5fac3c18101926c2b6b3aa5bd16eebf38174f12ab2457469fd1d8a83c33b6c9112db5555f36d9ac68bd1d64567e7682e22698a90e11905d7154f1b55995e3aae922b4604d1ec713974783aa9a3f6f374c009d313c250d9f6d4a&ascene=1&uin=Nzk4NDQ3NjUy&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=A0JlLHv9gJ6snp4HSRSetTk%3D&pass_ticket=jGsET598AtX4yfZ8%2BGcw%2BddDEjuAQwOWgrJAgbLW0eC7Ju1538HZMCcHaK%2B4ebEK&wx_header=0)
 
 ## 其余资源
 
-1、[GitHub排名第9的开发人员学习路线，成功斩获141K+star，学完国内BAT、TMD大厂随便进](https://zhuanlan.zhihu.com/p/339729410)
+- [GitHub排名第9的开发人员学习路线，成功斩获141K+star，学完国内BAT、TMD大厂随便进](https://zhuanlan.zhihu.com/p/339729410)
 
 
 

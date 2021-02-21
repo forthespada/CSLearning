@@ -1,6 +1,7 @@
 <h1 align="center">CSLearning的使用指南</h1>
 
 
+
 > 作者简介： 双非二本渣渣，8个月学习C++，投94家公司，笔试54场，面试30余家，2021届秋招拿6个中大厂offer（**字节跳动研发岗SP、华为通用软件开发、百度C++研发岗、B站后端研发岗、深信服C++研发岗以及农业银行研发岗**），最后成功上岸**字节跳动抖音部门**， 贡献个人头发去了。
 
 
@@ -87,7 +88,7 @@
 
 - [非科班转行自学进微软-我的编程学习之路](https://mp.weixin.qq.com/s/AnLjMaWffyKlJa4wmOeAIw)
 
-- [最强刷题笔记！谷歌大佬的100%打败600余道力扣的算法笔记小抄，还能更强吗？](https://zhuanlan.zhihu.com/p/342828731)
+- [最强算法刷题笔记！谷歌大佬的100%打败600余道力扣的算法小抄，还能更强吗？](https://zhuanlan.zhihu.com/p/342828731)
 
 
 
@@ -111,7 +112,11 @@
 
 - [《逆袭进大厂》第二弹之C++进阶篇59问59答(超硬核干货)](https://mp.weixin.qq.com/s/UlB1DP45RYU1cVeCQF2i8Q)（4W字进阶篇，你就说硬不硬吧）
 
-- [《逆袭进大厂》第三弹之C++提高篇79问79答](https://mp.weixin.qq.com/s/TYV9mRJZ7jowMB9AROJj6w)
+- [《逆袭进大厂》第三弹之C++提高篇79问79答](https://mp.weixin.qq.com/s/TYV9mRJZ7jowMB9AROJj6w)(同样3W字提高篇)
+
+- [《逆袭进大厂》第四弹之C++重头戏STL30问30答](https://mp.weixin.qq.com/s/GcDv7QeM5ePoX9rKtRozDg)(C++岗位校招面试必问STL知识)
+
+
 
 ## 程序人生
 

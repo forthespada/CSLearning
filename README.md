@@ -1,7 +1,6 @@
 <h1 align="center">CSLearning的使用指南</h1>
 
 
-
 > 作者简介： 双非二本渣渣，8个月学习C++，投94家公司，笔试54场，面试30余家，2021届秋招拿6个中大厂offer（**字节跳动研发岗SP、华为通用软件开发、百度C++研发岗、B站后端研发岗、深信服C++研发岗以及农业银行研发岗**），最后成功上岸**字节跳动抖音部门**， 贡献个人头发去了。
 
 
@@ -22,7 +21,7 @@
   <a href="http://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=100000332&idx=1&sn=9dd24307b7e963174ee8429827542318&chksm=4e25fe3179527727ac563214c69fe6ac354ab4383c652d9b3e9e03d70dc48df4ad929e076ce3#rd">
 公众号：拓跋阿秀</a>        
   <a href="https://blog.csdn.net/songhao19" rel="nofollow">CSDN：拓跋阿秀</a>         
-  <a href="https://www.zhihu.com/people/yi-wen-zi-hao-shu/answers" rel="nofollow">知乎：阿秀</a>     
+  <a href="https://www.zhihu.com/people/tuo-ba-a-xiu/answers" rel="nofollow">知乎：拓跋阿秀</a>     
 </p>
 
 -----
@@ -61,6 +60,10 @@
 
 - [阿秀做过的几个项目，拿去跟面试官对线](https://mp.weixin.qq.com/s/LopXj5XkUbOSgESV-sOf4w)
 
+- [知乎万赞|少写点if-else吧，它的效率有多低你知道吗？](https://mp.weixin.qq.com/s/ZOny-U_sSGZQG4XxEDf3kw)
+
+- 
+
 
 
 
@@ -90,6 +93,8 @@
 
 - [最强算法刷题笔记！谷歌大佬的100%打败600余道力扣的算法小抄，还能更强吗？](https://zhuanlan.zhihu.com/p/342828731)
 
+- [万字长文带你走进快速排序的前世今生](https://mp.weixin.qq.com/s/KcONJpqlWpVYnzY5bomzWg)
+
 
 
 
@@ -115,6 +120,10 @@
 - [《逆袭进大厂》第三弹之C++提高篇79问79答](https://mp.weixin.qq.com/s/TYV9mRJZ7jowMB9AROJj6w)(同样3W字提高篇)
 
 - [《逆袭进大厂》第四弹之C++重头戏STL30问30答](https://mp.weixin.qq.com/s/GcDv7QeM5ePoX9rKtRozDg)(C++岗位校招面试必问STL知识)
+
+- [《《逆袭进大厂》第五弹之操作系统开胃菜(附前四期PDF下载方式)》](https://mp.weixin.qq.com/s/zEXqsxgKs3zzIldZbYUxPw)
+
+- 
 
 
 

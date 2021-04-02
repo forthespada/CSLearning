@@ -62,11 +62,11 @@
 
 - [知乎万赞|少写点if-else吧，它的效率有多低你知道吗？](https://mp.weixin.qq.com/s/ZOny-U_sSGZQG4XxEDf3kw)
 
-- 
+- [Web服务器烂大街？来试试这个项目吧|我可能是推荐这个项目的第一人](https://mp.weixin.qq.com/s/qnSCGetdhnOyY4kTRPp0UA)
 
+- [看着这满屏的if-else，我有点懵 | 如何消灭它们？](https://mp.weixin.qq.com/s/gopro7xEiNAas8xp4pYPRQ)
 
-
-
+- [硬核！C++空间配置器的裤子被我扒下来了](https://mp.weixin.qq.com/s/Y9J5NyGIoYWEAIgtN33xvw)
 
 
 
@@ -123,14 +123,24 @@
 
 - [《《逆袭进大厂》第五弹之操作系统开胃菜(附前四期PDF下载方式)》](https://mp.weixin.qq.com/s/zEXqsxgKs3zzIldZbYUxPw)
 
-- 
+- [《逆袭进大厂》第六弹之操作系统汇总篇 | OS一次性更完](https://mp.weixin.qq.com/s/hW1VpWbjBBZV4bdrJoYlxQ)
 
+- [《逆袭进大厂》第七弹之计算机网络(上)33问33答](https://mp.weixin.qq.com/s/3G3d49ca33mtSNciIUuU1A)
 
+- [《逆袭进大厂》第八弹之计算机网络(中)33问33答|下期再更新PDF版本](https://mp.weixin.qq.com/s/PI9Wt2UcYQPDdjw2X7fbbg)
+
+- [《逆袭进大厂》第九弹之计算机网络重点篇(附答案) | 送几本校招求职攻略](https://mp.weixin.qq.com/s/18nEFZYmo7R5ojWZVcl6sQ)
+
+## 优秀面经
+
+- [虚度大一一年又如何，双非本科大三学弟连斩腾讯字节](https://mp.weixin.qq.com/s/IsuN7Wo8AyC_FFwXJdU7fg)
 
 ## 程序人生
 
 - [如果你想本科进BAT等大厂，那这些问题你千万要注意！千万不要去犯！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247485042&idx=1&sn=30ceb1c25d4e9bb8f9effa3e39cc2936&chksm=ce25fa0ff9527319808b59ae21cc2e5673d6c529d575da34122f1129f2037e1ad89b95d544c4&token=721831380&lang=zh_CN#rd)
 - [在校2年，仅靠计算机纯技术我赚到了12W](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247485325&idx=1&sn=0e05fbc72f530846204eecb3f7b2b6e6&chksm=ce25fbf0f95272e677d9bfe8ad986fddad2ecdf6f49aa9d17f2fefaf3b2b0395ec8b3b6eb1ab&scene=126&sessionid=1611849083&key=9901f88700be51c2509e4e0e8f951341c2aa7b3139134f0427597fcea3fa30adaa13509b594ce5fac3c18101926c2b6b3aa5bd16eebf38174f12ab2457469fd1d8a83c33b6c9112db5555f36d9ac68bd1d64567e7682e22698a90e11905d7154f1b55995e3aae922b4604d1ec713974783aa9a3f6f374c009d313c250d9f6d4a&ascene=1&uin=Nzk4NDQ3NjUy&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=A0JlLHv9gJ6snp4HSRSetTk%3D&pass_ticket=jGsET598AtX4yfZ8%2BGcw%2BddDEjuAQwOWgrJAgbLW0eC7Ju1538HZMCcHaK%2B4ebEK&wx_header=0)
+- [近期招收计算机考研调剂学生有感 | 考研调剂指南](https://mp.weixin.qq.com/s/mYmAJLTl9BW54iorh_1lZg)
+- [写文刚满100天，阿秀都有团队了？还请了专业运营？](https://mp.weixin.qq.com/s/rWONx_XiSG_kC3zWI332yg)
 
 ## 其余资源
 

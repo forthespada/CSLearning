@@ -2,7 +2,6 @@
 
 
 
-
 > 作者简介： 双非二本渣渣，8个月学习C++，投94家公司，笔试54场，面试30余家，2021届秋招拿6个中大厂offer（**字节跳动研发岗SP、华为通用软件开发、百度C++研发岗、B站后端研发岗、深信服C++研发岗以及农业银行研发岗**），最后成功上岸**字节跳动抖音部门**， 贡献个人头发去了。
 
 
@@ -123,7 +122,7 @@
 
 - [《逆袭进大厂》第四弹之C++重头戏STL30问30答](https://mp.weixin.qq.com/s/GcDv7QeM5ePoX9rKtRozDg)(C++岗位校招面试必问STL知识)
 
-- [《《逆袭进大厂》第五弹之操作系统开胃菜(附前四期PDF下载方式)》](https://mp.weixin.qq.com/s/zEXqsxgKs3zzIldZbYUxPw)
+- [《逆袭进大厂》第五弹之操作系统开胃菜(附前四期PDF下载方式)](https://mp.weixin.qq.com/s/zEXqsxgKs3zzIldZbYUxPw)
 
 - [《逆袭进大厂》第六弹之操作系统汇总篇 | OS一次性更完](https://mp.weixin.qq.com/s/hW1VpWbjBBZV4bdrJoYlxQ)
 
@@ -135,12 +134,16 @@
 
 ## 优秀面经
 
+- [阿秀朋友先后折戟腾讯、字节、快手、网易、滴滴、深信服后，终于成功上岸了](https://mp.weixin.qq.com/s/MsaAr1ofstCgxqs749W1wg)
 - [虚度大一一年又如何，双非本科大三学弟连斩腾讯字节](https://mp.weixin.qq.com/s/IsuN7Wo8AyC_FFwXJdU7fg)
 
 ## 程序人生
 
 - [如果你想本科进BAT等大厂，那这些问题你千万要注意！千万不要去犯！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247485042&idx=1&sn=30ceb1c25d4e9bb8f9effa3e39cc2936&chksm=ce25fa0ff9527319808b59ae21cc2e5673d6c529d575da34122f1129f2037e1ad89b95d544c4&token=721831380&lang=zh_CN#rd)
+- [去年寒假我是这样度过的(寒假学习班发车了)](https://mp.weixin.qq.com/s/vumxIig5L4Q-d223b0q7PQ)
 - [在校2年，仅靠计算机纯技术我赚到了12W](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247485325&idx=1&sn=0e05fbc72f530846204eecb3f7b2b6e6&chksm=ce25fbf0f95272e677d9bfe8ad986fddad2ecdf6f49aa9d17f2fefaf3b2b0395ec8b3b6eb1ab&scene=126&sessionid=1611849083&key=9901f88700be51c2509e4e0e8f951341c2aa7b3139134f0427597fcea3fa30adaa13509b594ce5fac3c18101926c2b6b3aa5bd16eebf38174f12ab2457469fd1d8a83c33b6c9112db5555f36d9ac68bd1d64567e7682e22698a90e11905d7154f1b55995e3aae922b4604d1ec713974783aa9a3f6f374c009d313c250d9f6d4a&ascene=1&uin=Nzk4NDQ3NjUy&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=A0JlLHv9gJ6snp4HSRSetTk%3D&pass_ticket=jGsET598AtX4yfZ8%2BGcw%2BddDEjuAQwOWgrJAgbLW0eC7Ju1538HZMCcHaK%2B4ebEK&wx_header=0)
+- [受宠若惊！有幸受官方邀请去做计算机专业求职直播分享](https://mp.weixin.qq.com/s/u3N5jhthJg1Oq6FqGonejw)
+- [唠嗑 | 4426个粉丝们，你们好(文末送红包)](https://mp.weixin.qq.com/s/uCB5K3fXZ0HMhL9_3Nuu2g)
 - [近期招收计算机考研调剂学生有感 | 考研调剂指南](https://mp.weixin.qq.com/s/mYmAJLTl9BW54iorh_1lZg)
 - [写文刚满100天，阿秀都有团队了？还请了专业运营？](https://mp.weixin.qq.com/s/rWONx_XiSG_kC3zWI332yg)
 

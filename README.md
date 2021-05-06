@@ -9,6 +9,8 @@
     <a href="https://github.com/forthespada/InterviewGuide"><img src="https://img.shields.io/badge/GitHub-计算机校招社招面试题汇总-critical.svg" alt="八股文">      <a href="https://github.com/forthespada/CSLearning"><img src="https://img.shields.io/badge/推荐阅读-大佬好文-import.svg" alt="学习"></a>
            <a href="https://github.com/forthespada/CS-Books"><img src="https://img.shields.io/badge/PDF-免费计算机书籍-lightgrey.svg" alt="免费PDF"></a>
         </p>
+
+
 ## 1、😜作者简介
 
 阿秀，本科与研究生均于**普通二本学校就读**，研二时开始自学C++8个月，秋招共计投 94 家公司，笔试54场，面试34场，拿华为、百度、深信服、字节跳动 SP 等6个中大厂offer，最终顺利签约字节跳动抖音部门，现担任抖音部门全栈开发工程师一枚。
@@ -35,7 +37,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.1.4.0/某乎问题图床/专栏上头条.jpg" alt="阿秀写的两个专栏上牛客网头条了" style="zoom: 50%;" />
 
-3、[校招求职专刊](https://www.nowcoder.com/tutorial/10043/index)（阿秀前后修改16个人的意见，精心打磨4轮，最终成功上线牛客网求职板块）
+3、[计算机校招求职专刊](https://www.nowcoder.com/tutorial/10043/index)（阿秀前后修改16个人的意见，精心打磨4轮，最终成功上线牛客网求职板块）
 
 >注：如果有意购买，可联系本人送你一个4元的优惠券，只需5.9元就可买到。
 >
